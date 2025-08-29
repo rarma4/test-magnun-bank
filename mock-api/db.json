@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Usuário Teste",
+      "email": "user@teste.com",
+      "password": "123456",
+      "balance": 8766
+    }
+  ],
+  "transactions": [
+    {
+      "id": "95e2",
+      "userId": "1",
+      "type": "TED",
+      "cpfCnpj": "1234",
+      "name": "qwer",
+      "bank": "21",
+      "agency": "21",
+      "account": "21",
+      "amount": 1234,
+      "date": "2025-08-29"
+    }
+  ]
+}
